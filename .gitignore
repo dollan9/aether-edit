@@ -1,0 +1,16 @@
+.venv/
+dist/
+build/
+*.spec
+__pycache__/
+*/__pycache__/
+*.pyc
+.pytest_cache/
+workspace/proxies/
+workspace/exports/
+workspace/telemetry/
+workspace/media_pool/*.mp4
+workspace/media_pool/*.wav
+workspace/timeline.json
+workspace/media_registry.json
+workspace/*.tmp
